@@ -5,6 +5,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>RunTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>TestClass</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -17,6 +21,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Acc_Test__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Test_Acc__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>

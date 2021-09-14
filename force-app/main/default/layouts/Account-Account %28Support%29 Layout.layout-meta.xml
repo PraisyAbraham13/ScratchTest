@@ -49,6 +49,10 @@
                 <behavior>Edit</behavior>
                 <field>Acc_Dunkin__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Test_Acc__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
